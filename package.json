@@ -1,0 +1,32 @@
+{
+  "name": "tahnode",
+  "version": "1.0.0",
+  "description": "Node app for TAH",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travisahughes/tahnode"
+  },
+  "keywords": [
+    "node",
+    "tah"
+  ],
+  "author": "Travis Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisahughes/tahnode/issues"
+  },
+  "homepage": "https://github.com/travisahughes/tahnode",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.17.0"
+  },
+  "dependencies": {
+    "ejs": "^2.1.4"
+  }
+}
